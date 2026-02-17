@@ -6,7 +6,7 @@ Technologies: JavaScript (ES6+),Web-components, Liquid, Shopify AJAX API, Third-
 
 Responsibilities:
 
-Custom Storefront Engineering: Architected a modular, component-based Shopify OS 2.0 theme, focusing on a mobile-first UI to support high-traffic direct-to-consumer (DTC) marketing campaigns.
+Custom Storefront: Architected a modular, component-based Shopify Online Store 2.0 theme, focusing on a mobile-first UI to support high-traffic direct-to-consumer (DTC) marketing campaigns.
 
 API & App Integration: Integrated and custom-styled third-party bundling and upsell applications, utilizing JavaScript to ensure seamless communication between the app logic and the Shopify 
 
